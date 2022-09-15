@@ -1,4 +1,4 @@
-# Structure-repository-for-solvation-thermodynamics-in-Pt-111-
+# Structure-repository-for-Differences in solvation thermodynamics of oxygenates at Pt/Al2O3 perimeter versus Pt(111) terrace sites calculated under explicit liquid water
 The different structures of the adsorbed species for solvationthermodynamics in Pt(111) for the paper: The role of entropy in solvation free energies at perimetral sites on the Platinum/Alumina interface for methanol decomposition.
 
 Structures were obtained from:
